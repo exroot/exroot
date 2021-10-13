@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Elias Torrealba and I'm a Full Stack Developer from Venezuela. In ❤️ with  Javascript & Typescript.
+Full Stack Developer from Venezuela
 
-- 🔭 I’m currently working at [@binauraldev](https://github.com/binauraldev) as a frontend developer, mainly ReactJS stuff.
-- 👯 I’m looking to collaborate on any ReactJS project.
+- 🔭 I’m currently working at [@binauraldev](https://github.com/binauraldev) as a Full Stack Developer.
+- 👯 I’m looking to collaborate on any ReactJS or Python project.
 - 🌱 I’m currently learning MDX & GraphQL.
 - 📫 How to reach me: at my [website](https://exroot.tech/) or via [email](info@exroot.tech).
