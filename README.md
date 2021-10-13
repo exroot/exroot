@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Full Stack Developer
 <!--
 **exroot/exroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Full Stack Developer from Venezuela
 
 - 🔭 I’m currently working at [@binauraldev](https://github.com/binauraldev) as a Full Stack Developer.
 - 👯 I’m looking to collaborate on any ReactJS or Python project.
